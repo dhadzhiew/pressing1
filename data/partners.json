@@ -1,0 +1,50 @@
+{
+    "bg":{
+		"pageTitle": "\"Пресинг-1\" ООД | Партньори",
+        "partners": [
+            {
+                "name": "“Примаз” ООД - Магнити и магнитни системи",
+                "address": "София 1528 пк 49",
+                "phoneField": "тел.",
+                "phone": "+359 2 9732410",
+                "faxField": "факс",
+                "fax": "+359 2 9732410",
+                "websiteField": "Уебсайт.",
+                "website": "www.pramiz.com",
+                "hasWebsite": 1
+            },
+            {
+                "name": "“Синтермат” АД - производител на метални прахове и смеси",
+                "address": "София 1280 Нови Искър, ул. “Кътинско щосе”",
+                "phoneField": "тел.",
+                "phone": "+359 2 9916229, +359 2 9916233",
+                "faxField": "факс",
+                "fax": "+359 02 9916168"
+            }
+        ]
+    },
+    "en":{
+		"pageTitle": "Pressing 1 Ltd. | Partners",
+        "partners": [
+            {
+                "name": "\"Pramiz Ltd.\" - Magnets and magnet systems",
+                "address": "Sofia 1528 m.b 49",
+                "phoneField": "tel.",
+                "phone": "+359 2 9732410",
+                "faxField": "fax",
+                "fax": "+359 2 9732410",
+                "websiteField": "Website.",
+                "website": "www.pramiz.com",
+                "hasWebsite": 1
+            },
+            {
+                "name": "\"Sitermat\" Plc. - producer of metal powders and mixes",
+                "address": "Sofia 1280 Novi Iskar, \"Katinsko shose\" Str.",
+                "phoneField": "tel.",
+                "phone": "+359 2 9916229, +359 2 9916233",
+                "faxField": "fax",
+                "fax": "+359 02 9916168"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "bg":{
+        "rights": "Всички права запазени",
+        "city": "гр. Ямбол",
+        "linkText": "\"ПРЕСИНГ-1\" ООД",
+        "producing": "Производство на металокерамични изделия, Прахова металургия"
+    },
+    "en":{
+        "rights": "All rights reserved",
+        "linkText": "\"Pressing-1\" Ltd.",
+        "city": "Yambol",
+        "producing": "Production of ceramic bodies, Powder Metallurgy"
+    }
+}

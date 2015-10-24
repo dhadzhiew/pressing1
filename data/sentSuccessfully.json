@@ -1,0 +1,8 @@
+{
+    "bg":{
+        "status": "Вашето съобщение е изпратено."
+    },
+    "en":{
+        "status": "Your message has been sent."
+    }
+}

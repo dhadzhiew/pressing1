@@ -1,0 +1,14 @@
+{
+    "bg": {
+        "home": "Начало",
+        "gallery": "Галерия",
+        "partners": "Партньори",
+        "contacts": "Контакти"
+    },
+    "en": {
+        "home": "Home",
+        "gallery": "Gallery",
+        "partners": "Partners",
+        "contacts": "Contacts"
+    }
+}

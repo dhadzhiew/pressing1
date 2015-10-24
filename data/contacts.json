@@ -1,0 +1,42 @@
+{
+    "bg":{
+        "pageTitle": "\"Пресинг-1\" ООД | Контакти",
+        "addressField": "Адрес",
+        "address": "с. Генерал Инзово, “Индустриална зона”",
+        "workShopField": "Цех",
+        "workShopPhone": "тел./факс 04770230",
+        "engineers": [{
+            "eng": "Инж. Панайот Станев",
+            "engPhone": "GSM: 0888126049"
+        },{
+            "eng": "Инж. Личко Лолов",
+            "engPhone": "GSM: 0888126039"
+        }],
+        "accountant": "Камелия Станева - счетоводител",
+        "accountantPhone": "GSM: 0887013492",
+        "name": "ИМЕ",
+        "subject": "ОТНОСНО",
+        "msg": "СЪОБЩЕНИЕ",
+        "send": "ИЗПРАТИ"
+    },
+    "en": {
+        "pageTitle": "Pressing 1 Ltd. | Contacts",
+        "addressField": "Address",
+        "address": "General Inzovo, “Industrial Zone”",
+        "workShopField": "Workshop",
+        "workShopPhone": "tel./fax 04770230",
+        "engineers": [{
+            "eng": "dipl. eng. Panayot Stanev",
+            "engPhone": "GSM: 0888126049"
+        },{
+            "eng": "dipl. eng. Lichko Lilov",
+            "engPhone": "GSM: 0888126039"
+        }],
+        "accountant": "dipl. eng. Kamelia Staneva - accountant",
+        "accountantPhone": "GSM: 0887013492",
+        "name": "NAME",
+        "subject": "SUBJECT",
+        "msg": "MESSAGE",
+        "send": "SEND"
+    }
+}
